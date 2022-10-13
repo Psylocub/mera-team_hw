@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  ping:
+    build:
+      context: .
+      dockerfile: ./docker/app/Dockerfile
+    volumes:
+      - ./:/app
