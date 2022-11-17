@@ -6,7 +6,7 @@ while True:
           "3. Get plant by id\n" +
           "4. Add new employee\n" +
           "5. Get all employees\n" +
-          "6. Get employee bu plant id\n" +
+          "6. Get employee by plant id\n" +
           "7. Add new salon\n" +
           "8. Get all salons\n" +
           "9. Get salon by id\n" +

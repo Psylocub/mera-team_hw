@@ -1,7 +1,4 @@
 ## HW # 8
-### Flask 2
+### Flask - intro
 
-Create a page which display details about plant, plant information and plant employees information.
-
-Route for check:
-http://localhost:5000/plants-employees
+Create route for calculator if user type in url /calc/1/2 should display 3 in another case if user type in url /calc/3/5 should return 8
